@@ -2,9 +2,7 @@
 
 1. Mục lục :
  - a. Giới Thiệu
- - b.
- - c.
- - d.
+ - b. Mô hình phân lớp OSI
 
 2.Giới thiệu về OSI 
  - Mô hình OSI (Open Systems Interconnection Reference Model, viết ngắn là OSI Model hoặc OSI Reference Model) - tạm dịch là Mô hình tham chiếu kết nối các hệ thống mở - là một thiết kế dựa vào nguyên lý tầng cấp, lý giải một cách trừu tượng kỹ thuật kết nối truyền thông giữa các máy vi tính và thiết kế giao thức mạng giữa chúng ; được tổ chức ISO đề xuất từ 1977 và công bố lần đầu vào 1984.  Mô hình này được phát triển thành một phần trong kế hoạch Kết nối các hệ thống mở (Open Systems Interconnection) do ISO và IUT-T khởi xướng. Nó còn được gọi là Mô hình bảy tầng của OSI. 
